@@ -1,6 +1,11 @@
 @import url("https://fonts.googleapis.com/css?family=Open+Sans:300,300italic,600,600italic,700");
 @import url("fontawesome-all.min.css");
 
+.company-logo {
+	width: 100px;
+	height: 100px;
+}
+
 /*
 	Miniport by HTML5 UP
 	html5up.net | @ajlkn
@@ -1976,7 +1981,7 @@ input, select, textarea {
 		.icon.featured {
 			color: #EA8A95;
 			display: block;
-			margin: 0 0 1.5em 0;
+			margin: 0 0 0.4em 0;
 			cursor: default;
 		}
 
